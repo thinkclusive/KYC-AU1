@@ -1,3 +1,0 @@
-NSFaceIDUsageDescription = "Request Biomatric Authentication";
-NSCameraUsageDescription = "Request to access camera";
-PermissionGroupNotification = "Request to access notification";

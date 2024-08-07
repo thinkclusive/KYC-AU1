@@ -1,4 +1,4 @@
-# aspire-wallet
+# QR Codee KYC
 
 A new Flutter project.
 

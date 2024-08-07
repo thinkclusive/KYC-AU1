@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Aspire-Wallet</string>
+	<string>QR Codee KYC</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,39 +13,23 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>aspire-wallet</string>
+	<string>QR Codee KYC</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
-	<key>CFBundleLocalizations</key>
-	<array>
-		<string>en</string>
-		<string>th</string>
-	</array>
 
 	<key>CFBundleShortVersionString</key>
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleURLTypes</key>
-	<array>
-        <dict>
-            <key>CFBundleTypeRole</key>
-            <string>Editor</string>
-            <key>CFBundleURLSchemes</key>
-            <array>
-                <string>com.googleusercontent.apps.759856793150-4lgd06p0o03tcrs1gr0869tpoh4puq0k</string>
-                
-            </array>
-        </dict>
-
-        <dict>
+	<array>        <dict>
         <key>CFBundleTypeRole</key>
         <string>Editor</string>
         <key>CFBundleURLName</key>
-        <string>aspirewallet.com</string>
+        <string>qrcodeekyc.com</string>
         <key>CFBundleURLSchemes</key>
         <array>
-        <string>aspirewallet</string>
+        <string>qrcodeekyc</string>
         </array>
         </dict>
     </array>
@@ -58,12 +42,8 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 
-	<key>NSFaceIDUsageDescription</key>
-    <string>Request to access Biometric Scanner</string>
-	<key>NSCameraUsageDescription</key>
-    <string>Request to access camera</string>
-	<key>PermissionGroupNotification</key>
-    <string>Request to access notification</string>
+
+
 
 
 	<key>UILaunchStoryboardName</key>
